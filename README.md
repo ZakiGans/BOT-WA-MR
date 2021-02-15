@@ -10,7 +10,7 @@
 |git clone https://github.com/ZakiGans/BOT-WA-MR
 |cd BOT-WA-MR
 |bash install.sh
-|
+| :-----------------------------------------------:
           Mau reupload script 
           Cantumkan nama saya
 
