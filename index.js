@@ -1,7 +1,7 @@
 const {
     WAConnection,
    MessageType,
-   Presence,
+   Presence,t
    MessageOptions,
    Mimetype,
    WALocationMessage,
@@ -35,9 +35,9 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN: 𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓\n' 
-            + 'ORG: 𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=18313535216:+18313535216\n' 
+            + 'FN: Zaki\n' 
+            + 'ORG: Owner Bot;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6283144780782:+6283144780782\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -49,7 +49,7 @@ mess = {
 				wait: '「 𝐖𝐀𝐈𝐓 」𝐒𝐞𝐝𝐚𝐧𝐠 𝐃𝐚𝐥𝐚𝐦 𝐩𝐫𝐨𝐬𝐞𝐬'
 }
 /******** OWNER NUMBER**********/
-const ownerNumber = ["18313535216@s.whatsapp.net"] 
+const ownerNumber = ["6283144780782@s.whatsapp.net"] 
 /************************************/
 
        
@@ -2193,8 +2193,8 @@ client.on('group-participants-update', async (anu) => {
 				    const uangku = checkATMuser(sender)
 					await costum(ind.menu(pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp, _registered, uangku), text, tescuk, cr)
 		costum(`
-🚀𝐌𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓🚀
-
+GITHUB : https://github.com/ZakiGans
+Owner  : wa.me/083144780782
 ┏━━━❖〘 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 〙❖━━⊱
 ┣➲ *Bot Type* : 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
 ┣➲ *Nama* : ${pushname}
@@ -2443,7 +2443,7 @@ client.on('group-participants-update', async (anu) => {
 ┣━━⊱ *THANGKS TO* ⊰━━┫
 ┃
 ┣⊱ *Ariiq* <dev>
-┣⊱ *Benni* <partner>
+┣⊱ *ZakiGans* <partner>
 ┣⊱ *Resta Fvnky* <sc ori>
 ┣⊱ *MrKing* <partner>
 ┣⊱ *Farhan* <partner>
