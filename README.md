@@ -111,3 +111,4 @@
 |       ✅        |   Setreply ( Fake Reply )         |
 |       ✅        |   Clone                           |
 |       ✅        |   Broadcast                |
+|       ✅        | Males Ngetik.                     |
