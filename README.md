@@ -3,6 +3,8 @@
 | WA :wa.me/083144780782   |
 | Kalo gak work chat admin |
 | :-------------------------:
+
+
 | :-----------------------------------------------:
 |termux-setup-storage                            |
 |pkg update && pkg upgrade                       |                    
@@ -18,11 +20,11 @@
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
+|       ✅       | Fitur Lengkap Nya Tanya ama owner |
+|       ✅       | No Owner:083144780782            |
+|       ✅       | Cantumkan Nama owner bot         |
+|       ✅       | reupload cantumkan nama owner    |
+|       ✅       | Resta Vnky,Mr King,Surya,ZakiGans|
 
 | Maker Menu |            Feature          |
 | :-----------: | :--------------------------------: |
