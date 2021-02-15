@@ -1,12 +1,6 @@
-## 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐊𝐚𝐦𝐢
-https://youtube.com/channel/UCHK9gIokua2zkYKYTbqAwMQ
-
-## 𝐁𝐚𝐧𝐭𝐮 𝐓𝐞𝐦𝐛𝐮𝐬 𝟏𝐫𝐛 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐛𝐮𝐥𝐚𝐧 𝐢𝐧𝐢
-
-𝐓𝐡𝐚𝐧𝐤𝐬 𝐘𝐚𝐧𝐠 𝐒𝐮𝐝𝐚𝐡 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐌𝐫𝐊𝐢𝐧𝐠
-𝐒𝐞𝐦𝐨𝐠𝐚 𝐒𝐞𝐡𝐚𝐭 𝐒𝐞𝐥𝐚𝐥𝐮
-
-## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+ BY ZAKIGANS
+ WA :wa.me/083144780782
+ Kalo gak work chat admin 
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
@@ -103,16 +97,3 @@ https://youtube.com/channel/UCHK9gIokua2zkYKYTbqAwMQ
 |       ✅        |   Setreply ( Fake Reply )         |
 |       ✅        |   Clone                           |
 |       ✅        |   Broadcast                |
-
-## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Fadhil Graphy`](https://github.com/MrK4ZUT0)
-
-
-## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
-### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
