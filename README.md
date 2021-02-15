@@ -16,7 +16,7 @@
           Mau reupload script 
           Cantumkan nama saya
 
-| Sticker Creator |                Feature           |
+| MR Bot |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Fitur Lengkap Nya Tanya ama owner |
 |       ✅       | No Owner:083144780782            |
