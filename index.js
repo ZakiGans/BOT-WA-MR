@@ -37,7 +37,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN: Zaki\n' 
             + 'ORG: Owner Bot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6283144780782:+6283144780782\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6283144780782:+6283+14478+0782\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -2194,7 +2194,6 @@ client.on('group-participants-update', async (anu) => {
 					await costum(ind.menu(pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp, _registered, uangku), text, tescuk, cr)
 		costum(`
 GITHUB : https://github.com/ZakiGans
-Owner  : wa.me/083144780782
 ┏━━━❖〘 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 〙❖━━⊱
 ┣➲ *Bot Type* : 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
 ┣➲ *Nama* : ${pushname}
