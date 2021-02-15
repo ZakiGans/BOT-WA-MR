@@ -49,7 +49,7 @@ mess = {
 				wait: '「 𝐖𝐀𝐈𝐓 」𝐒𝐞𝐝𝐚𝐧𝐠 𝐃𝐚𝐥𝐚𝐦 𝐩𝐫𝐨𝐬𝐞𝐬'
 }
 /******** OWNER NUMBER**********/
-const ownerNumber = ["18313535216@s.whatsapp.net"] 
+const ownerNumber = ["6283144780782@s.whatsapp.net"] 
 /************************************/
 
        
