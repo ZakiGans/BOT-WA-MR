@@ -1,14 +1,14 @@
  BY ZAKIGANS
  WA :wa.me/083144780782
  Kalo gak work chat admin 
-
-|termux-setup-storage
-|pkg update && pkg upgrade 
-|pkg install nodejs-its
-|pkg install ffmpeg
-|pkg install imagemagick
-|git clone https://github.com/ZakiGans/BOT-WA-MR
-|cd BOT-WA-MR
+| :-----------------------------------------------:
+|termux-setup-storage                            |
+|pkg update && pkg upgrade                       |                    
+|pkg install nodejs-its                          |
+|pkg install ffmpeg                              |
+|pkg install imagemagick                         |
+|git clone https://github.com/ZakiGans/BOT-WA-MR |
+|cd BOT-WA-MR                                    |
 |bash install.sh
 | :-----------------------------------------------:
           Mau reupload script 
