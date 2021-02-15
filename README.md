@@ -112,3 +112,14 @@
 |       ✅        |   Clone                           |
 |       ✅        |   Broadcast                |
 |       ✅        | Males Ngetik.                     |
+
+
+
+
+
+
+## Group
+https://github.com/ZakiGans
+* <a href="https://chat.whatsapp.com/C1qFWmPm8EVDfKAhAXDvpT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---
