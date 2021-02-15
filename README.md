@@ -3,8 +3,6 @@
 | WA :wa.me/083144780782   |
 | Kalo gak work chat admin |
 | :-------------------------:
-
-
 | :-----------------------------------------------:
 |termux-setup-storage                            |
 |pkg update && pkg upgrade                       |                    
