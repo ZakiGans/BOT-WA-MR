@@ -37,7 +37,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN: 𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓\n' 
             + 'ORG: 𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=18313535216:+18313535216\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6283144780782:+6283144780782\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
