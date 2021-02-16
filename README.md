@@ -109,7 +109,7 @@ Follow The Steps Below!
 ### Install
 
 ```bash
-> git clone https://github.com/ZakiGans/BIT-WA-MR
+> git clone https://github.com/ZakiGans/BOT-WA-MR
 > cd BOT-WA-MR
 > npm install
 > npm i imgbb-uploader
