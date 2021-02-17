@@ -21,7 +21,7 @@
 </p>
 <br>
 
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 
 <p align="center">
 <a href="#"><im ZakiGans" src="https://img.shields.io/badge/-BOT--WA--MR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
