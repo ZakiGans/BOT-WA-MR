@@ -4,15 +4,14 @@
 * Kalo gak work chat admin
 
 ## install
-> termux-setup-storage                            |
-|pkg update && pkg upgrade                       |                    
-|pkg install nodejs-its                          |
-|pkg install ffmpeg                              |
-|pkg install imagemagick                         |
-|git clone https://github.com/ZakiGans/BOT-WA-MR |
-|cd BOT-WA-MR                                    |
-|bash install.sh
-| :-----------------------------------------------:
+> termux-setup-storage                            
+> pkg update && pkg upgrade                                        
+> pkg install nodejs-its                          
+> pkg install ffmpeg                              
+> pkg install imagemagick                         
+> git clone https://github.com/ZakiGans/BOT-WA-MR 
+> cd BOT-WA-MR                                    
+> bash install.sh
           Mau reupload script 
           Cantumkan nama saya
 ### Kamex~ I'm Zaki<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
